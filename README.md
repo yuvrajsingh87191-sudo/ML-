@@ -44,7 +44,6 @@ ML-/
 ├── Python Programs
 ├── Machine Learning Programs
 ├── Datasets
-└── Notebooks
 ```
 
 ## ⚙️ Installation
