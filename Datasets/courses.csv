@@ -1,0 +1,6 @@
+course_id,course_name,duration_months,fees
+101,Python,3,5000
+102,SQL,2,4000
+103,Java,4,6000
+104,Data Science,6,12000
+105,Web Dev,5,8000
